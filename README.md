@@ -1,13 +1,14 @@
 <<<<<<< HEAD
-## After cloning this repo, do the following steps:
-1. `composer install`
-2. `npm install`
-3. Duplicate the `.env.example` file and rename it to `.env`
-4. Create the `database.sqlite` in database directory
-5. Run `php artisan migrate`
-6. Run `php artisan key:generate`
-7. Run `php artisan serve`
-8. Run `npm run dev`
+make sure you have Laravel installed in your system 
+
+After cloning this repo, do the following steps:
+composer install
+npm install
+into the MAIN_MAILER make sure to go over mailtrap and go to my inbox, select an option in the PHP tab, select Laravel 9+, copy the code and paste it to the MAIN_MAILER in the .env file and make sure to replace only the first 5 lines. replace the lines before the MAIL_ENCRYPTION.
+Run php artisan migrate
+Run php artisan key:generate
+Run php artisan serve
+Run npm run dev
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
