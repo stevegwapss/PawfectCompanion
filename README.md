@@ -1,13 +1,21 @@
 <<<<<<< HEAD
 make sure you have Laravel installed in your system 
-
+<br>
 After cloning this repo, do the following steps:
+<br>
 composer install
+<br>
 npm install
-into the MAIN_MAILER make sure to go over mailtrap and go to my inbox, select an option in the PHP tab, select Laravel 9+, copy the code and paste it to the MAIN_MAILER in the .env file and make sure to replace only the first 5 lines. replace the lines before the MAIL_ENCRYPTION.
+<br>
+into the MAIN_MAILER make sure to go over mailtrap and go to my inbox, select an option in the PHP tab, select Laravel 9+, copy the code and paste it to the MAIN_MAILER in the .env file and
+<br>make sure to replace only the first 5 lines. replace the lines before the MAIL_ENCRYPTION.
+<br>
 Run php artisan migrate
+<br>
 Run php artisan key:generate
+<br>
 Run php artisan serve
+<br>
 Run npm run dev
 
 
