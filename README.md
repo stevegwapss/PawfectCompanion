@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## After cloning this repo, do the following steps:
 1. `composer install`
 2. `npm install`
@@ -75,3 +76,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# PawfectCompanion
+pet adoption and appointment system
+>>>>>>> cb20ce42364fc353e7724dab2f84646db08a07c2
