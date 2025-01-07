@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<br>
 make sure you have Laravel installed in your system 
 <br>
+<br>
 After cloning this repo, do the following steps:
+<br>
 <br>
 composer install
 <br>
